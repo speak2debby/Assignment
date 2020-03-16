@@ -1,0 +1,45 @@
+#container{
+    background:white;
+    width: 1280px;
+    height: 500px;
+    margin: 0 auto;
+
+}
+    #header{
+        background: gray;
+        width:  1280px;
+        height: 70px;
+        text-align: center;
+        padding:5px;
+    }
+    
+    #middle{
+        background: white;
+        width:1200px;
+        height:470px;
+    }
+        #left{
+            background: gainsboro;
+            width:250px;
+            height:470px;
+            float: left;
+            text-align: justify;
+        }
+        #right{
+            background: white;
+            width:920px;
+            height:470px;
+            float: right;
+           
+        
+        }
+    #footer{
+        background: grey;
+        width: 1280px;
+        height: 70px;
+        text-align: center;
+        padding:5px;
+    }
+h4{
+    text-align: center;
+}
